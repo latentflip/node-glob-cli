@@ -1,6 +1,6 @@
 {
   "name": "glob-cli",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "bin": "./bin.js",
   "dependencies": {
     "globby": "^0.1.1"
