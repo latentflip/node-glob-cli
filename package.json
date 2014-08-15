@@ -1,15 +1,13 @@
 {
   "name": "glob-cli",
   "version": "0.0.0",
-  "description": "",
-  "main": "bin.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
+  "bin": "./bin.js",
   "dependencies": {
     "globby": "^0.1.1"
   },
-  "bin": "./bin.js"
+  "license": "ISC",
+  "main": "bin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
