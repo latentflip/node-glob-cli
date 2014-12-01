@@ -1,6 +1,10 @@
 {
   "name": "glob-cli",
   "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/latentflip/node-glob-cli.git"
+  },
   "bin": "./bin.js",
   "dependencies": {
     "globby": "^0.1.1"
